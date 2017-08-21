@@ -49,4 +49,10 @@ Via [@bustle](https://twitter.com/bustle "Bustle"), learn how to wax poetic on T
 ### [04-ctags.json](examples/04-ctags.json)
 
 [$APPL](https://twitter.com/search?q=%23APPL&src=ctag) set to jump this morning. General rebound in the market today. Yesterday was a good time to buy into the panic.
+- - -
+
+### [05-quote.json](examples/05-quote.json)
+
+Awesome news! 
+> Native video support in REST and Streaming API [twittercommunity.com/t/twitter-vide…](https://t.co/VrFm1qGZnF "https://twittercommunity.com/t/twitter-video-now-supported-in-rest-and-streaming-api/31258")
 
